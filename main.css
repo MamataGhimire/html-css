@@ -1,0 +1,45 @@
+.container
+{
+    height:500px ;
+    width: 900px;
+
+}
+
+.child
+{
+    height:50%;
+    width:100%;
+    background-color: blueviolet;
+    float: left;
+    margin-top: 1%;
+    
+       
+    
+}
+.parent
+{
+    height:100%;
+    width:40%;
+    
+    float: left;
+    margin-left: 1%;
+}
+.a
+{
+ background-color: aqua;
+}
+.b
+{
+ background-color:plum
+ ;
+}
+.c
+{
+ background-color:yellowgreen;
+ 
+}
+.child:hover
+{
+    background-color:white;
+}
+
